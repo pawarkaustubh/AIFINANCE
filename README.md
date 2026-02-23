@@ -1,11 +1,11 @@
-# **Finvestt – Finance Platform**
+# **AIFINANCE – Finance Platform**
 
-Finvestt is a modern personal finance management platform built with **Next.js**, **Prisma + PostgreSQL + Supabase**, **Clerk authentication**, **Google Gemini AI**, **ArcJet**, **Inngest**, and **Resend email**.
+AIFINANCE is a modern personal finance management platform built with **Next.js**, **Prisma + PostgreSQL + Supabase**, **Clerk authentication**, **Google Gemini AI**, **ArcJet**, **Inngest**, and **Resend email**.
 
 Users can manage multiple bank accounts, track income/expenses, set monthly budgets, receive alerts, and generate recurring transactions. The UI is built using **shadcn/ui** and includes visualizations with **Recharts**.
 
 ## Live Demo
-[https://finvestt.vercel.app/](https://finvestt.vercel.app/)
+[https://AIFINANCE.vercel.app/](https://AIFINANCE.vercel.app/)
 ---
 
 ## 🎥 Project Video 
@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/58565598-5197-448e-b3b0-b203cc363075
 ---
 
 # Overview
-Finvestt helps users manage multiple bank accounts, record income/expenses, set monthly budgets, scan receipts using AI (Gemini), and view charts and transaction tables per account. Users authenticate with Clerk. Sensitive operations are protected by ArcJet (rate-limiting / bot protection). Emails are sent with Resend.
+AIFINANCE helps users manage multiple bank accounts, record income/expenses, set monthly budgets, scan receipts using AI (Gemini), and view charts and transaction tables per account. Users authenticate with Clerk. Sensitive operations are protected by ArcJet (rate-limiting / bot protection). Emails are sent with Resend.
 
 ---
 
