@@ -7,7 +7,7 @@ export async function sendEmail({ to, subject, react }) {
 
   try {
     const data = await resend.emails.send({
-      from: "Finvestt <onboarding@resend.dev>",
+      from: "AIFINANCE <onboarding@resend.dev>",
       to,
       subject,
       react,

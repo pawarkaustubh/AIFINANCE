@@ -100,7 +100,7 @@ export default function EmailTemplate({
           {/* AI Insights */}
           {data?.insights && (
             <Section style={styles.section}>
-              <Heading style={styles.heading}>Finvestt Insights</Heading>
+              <Heading style={styles.heading}>AIFINANCE Insights</Heading>
               {data.insights.map((insight, index) => (
                 <Text key={index} style={styles.text}>
                   • {insight}
@@ -110,7 +110,7 @@ export default function EmailTemplate({
           )}
 
           <Text style={styles.footer}>
-            Thank you for using Finvestt. Keep tracking your finances for better
+            Thank you for using AIFINANCE. Keep tracking your finances for better
             financial health!
           </Text>
         </Container>

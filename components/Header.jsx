@@ -5,20 +5,15 @@ import { Button } from "./ui/button";
 import { PenBox, LayoutDashboard } from "lucide-react";
 import Link from "next/link";
 import { SignedIn, SignedOut, SignInButton, UserButton } from "@clerk/nextjs";
-import Image from "next/image";
 
 const Header = () => {
   return (
     <header className="fixed top-0 w-full bg-white/80 backdrop-blur-md z-50 border-b">
       <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/">
-          <Image
-            src={"/logo2.png"}
-            alt="Finvestt Logo"
-            width={200}
-            height={60}
-            className="h-12 w-auto object-contain"
-          />
+          <span className="text-2xl font-extrabold bg-gradient-to-r from-blue-600 to-cyan-500 bg-clip-text text-transparent tracking-tight">
+            AIFINANCE
+          </span>
         </Link>
 
         {/* Navigation Links - Different for signed in/out users */}
