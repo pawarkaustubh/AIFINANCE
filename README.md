@@ -4,15 +4,6 @@ AIFINANCE is a modern personal finance management platform built with **Next.js*
 
 Users can manage multiple bank accounts, track income/expenses, set monthly budgets, receive alerts, and generate recurring transactions. The UI is built using **shadcn/ui** and includes visualizations with **Recharts**.
 
-## Live Demo
-[https://AIFINANCE.vercel.app/](https://AIFINANCE.vercel.app/)
----
-
-## 🎥 Project Video 
-https://github.com/user-attachments/assets/58565598-5197-448e-b3b0-b203cc363075
-
- 
-
 # Table of Contents
 - [Overview](#overview)
 - [Features](#features)
